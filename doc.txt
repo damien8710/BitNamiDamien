@@ -1,0 +1,5 @@
+// https://docs.bitnami.com/general/infrastructure/nginx/get-started/
+
+// idk what else to do here honestly lol
+
+// 
