@@ -1,5 +1,9 @@
 // https://docs.bitnami.com/general/infrastructure/nginx/get-started/
-
-// idk what else to do here honestly lol
-
-// 
+Allow the ssh's first. 
+// If you are required to access your phpMyAdmin that is preinstalled in the BitNami Server, follow the steps accordingly
+Run PuttyGen (Right click on Putty and you will see it)
+// Please rememeber to swipe your mouse left and right within the empty box that you will see when generating the key pairs so that it will actually generate. You can just swipe laterally like a madman.
+https://www.youtube.com/watch?v=9VdcQLDmYII&t=29s
+// The Putty configuration part is not gonna be exactly the same so you may have to make amendments to it. 
+Upon getting the key, use putty to save your credentials, then login to the server.
+After logging in, then you access the web browser of your choice, then type in 127.0.0.1:8888
